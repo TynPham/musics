@@ -1,0 +1,60 @@
+{
+  "musics": [
+    {
+      "id": 1,
+      "name": "Hôm nay em cưới rồi",
+      "singer": "Khải Đăng",
+      "path": "https://c1-ex-swe.nixcdn.com/NhacCuaTui1007/HomNayEmCuoiRoiLive-KhaiDang-6847347.mp3?st=ePKF8dZ4YoyPhqmXu7Iu9g&e=1653817937&t=1653731534284",
+      "image": "https://i.ytimg.com/vi/NuWAl7-Vkwk/maxresdefault.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Suốt đời không xứng",
+      "singer": "Khải Đăng",
+      "path": "https://c1-ex-swe.nixcdn.com/NhacCuaTui1012/SuotDoiKhongXungLofiVersion-KhaiDang-6971212.mp3?st=crzdlU0Ye0G_E-3tmlGL3g&e=1653819551&t=1653733148490",
+      "image": "https://i.ytimg.com/vi/jc1hmvbkO6Q/maxresdefault.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Lỗi duyên trời",
+      "singer": "Khải Đăng",
+      "path": "https://c1-ex-swe.nixcdn.com/NhacCuaTui999/LoiDuyenTroi-KhaiDang-6287638.mp3?st=HZbGVAfGuPpbTXGyvvJwDg&e=1653819707&t=1653733304234",
+      "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/b/d/1/b/bd1b2706ab092342b7fe8ca475fb5610.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Phản bội chính mình",
+      "singer": "Quân AP x Vương Anh Tú",
+      "path": "https://c1-ex-swe.nixcdn.com/NhacCuaTui1027/PhanBoiChinhMinh-QuanAPVuongAnhTu-7198436.mp3?st=6GysfI8wNNXh1qJ9kWKecw&e=1653819784&t=1653733381795",
+      "image": "https://images.genius.com/a4e281132e5beb2fdaeb6f7dbbf51046.500x500x1.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Điều khác lạ (remix)",
+      "singer": "Đạt G x Ngọc Halley x Masew",
+      "path": "https://c1-ex-swe.nixcdn.com/NhacCuaTui954/DieuKhacLaMasewMix-DatGNgocHaleyyMasew-5189730.mp3?st=vH_CYxe4OGP8HMijkhnxjw&e=1653819917&t=1653733514194",
+      "image": "https://i.ytimg.com/vi/jRPjLb3ZjCo/maxresdefault.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Khi em lớn (remix)",
+      "singer": "Orange x Hoàng Dũng",
+      "path": "https://c1-ex-swe.nixcdn.com/NhacCuaTui1015/KhiEmLonFrexsRemix-OrangeHoangDungTheVoice-7013734.mp3?st=kQPrgidVlijzP2sp1EpjCg&e=1653820097&t=1653733696968",
+      "image": "https://i1.sndcdn.com/artworks-5jiA2KkUhcXSSux9-vEt7xA-t500x500.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Em hát ai nghe",
+      "singer": "Orange x Freak D",
+      "path": "https://c1-ex-swe.nixcdn.com/NhacCuaTui1020/EmHatAiNgheLofiVersion-OrangeFreakD-7074146.mp3?st=ZO6r6-iK2T2RX8dNCp6usA&e=1653820239&t=1653733836349",
+      "image": "https://i.ytimg.com/vi/wssbBe_t-r4/maxresdefault.jpg"
+    },
+    {
+      "name": "Thay tôi yêu cô ấy",
+      "singer": "Thanh Hưng",
+      "path": "https://vnso-zn-5-tf-mp3-320s1-zmp3.zmdcdn.me/dc8262f249b5a0ebf9a4/7654356817529193239?authen=exp=1654267392~acl=/dc8262f249b5a0ebf9a4/*~hmac=71b7aa28515e4a9a7866db3987f10d67&fs=MTY1NDA5NDU5MjA1Nnx3ZWJWNnwwfDE0LjE3Ni42MS4w",
+      "image": "https://i.ytimg.com/vi/kSYhR8vnzBg/maxresdefault.jpg",
+      "id": 8
+    }
+  ]
+}
